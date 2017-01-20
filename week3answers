@@ -1,0 +1,26 @@
+Name: Dan Siegel
+Date: 10/8/16
+Answers for week 3
+
+1. What are tha names of the parts of a unix command? List them, and give a brief description of each. 
+
+A unix command can have options, filenames, and arguments.
+An Option is a way to specify a way to do a command. Ie ls -a 
+
+Filenames are so that you can either specify or create the file that you are working with. 
+
+Arguments are a piece of info that you must pass into the command in order for it to work correctly. 
+
+2. Can multiple UNIX commands be typed on the same single command line? Explain how.
+
+Yes, they can be on the same line if there. One looking to accomplish this would use one of the special operators in Linux, >> or | for example.
+
+4. What system was the immediate precesesor of Unix? Where was this predecessor and Unix itself was developed, and by whom?
+
+Multics was the predacessor to Unix. Unix was developed at Bell labs by Ken Thompson and Dennis Ritchie. 
+
+5. Where did the 3 main branches of Unix development take birth. Name two systems from the commercial branch and one from the academic branch of Unix Development.
+They took birth from the creation of the C language by Ken Thmpson and Dennis Ritchie.
+
+Commercial Branch: System V, Open Systems
+Academic: BSD

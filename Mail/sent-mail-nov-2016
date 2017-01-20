@@ -1,0 +1,47 @@
+From MAILER-DAEMON Tue Oct 11 19:53:06 2016
+Date: 11 Oct 2016 19:53:06 -0700
+From: Mail System Internal Data <MAILER-DAEMON@syccuxas01.pcc.edu>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1476240786@syccuxas01.pcc.edu>
+X-IMAP: 1476240438 0000000002
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From daniel.siegel@syccuxas01.pcc.edu Tue Oct 11 19:48:21 2016 -0700
+Date: Tue, 11 Oct 2016 19:48:21 -0700 (PDT)
+From: 201604 40986 Daniel Siegel <daniel.siegel@syccuxas01.pcc.edu>
+To: "201602 20679 TristenJ. Everett" <tristen.everett@syccuxas01.pcc.edu>
+Subject: Test
+Message-ID: <alpine.LSU.2.11.1610111947240.20466@syccuxas01.pcc.edu>
+User-Agent: Alpine 2.11 (LSU 23 2013-08-11)
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 1
+
+Testing test
+
+
+From daniel.siegel@syccuxas01.pcc.edu Tue Oct 11 19:52:01 2016 -0700
+Date: Tue, 11 Oct 2016 19:52:01 -0700 (PDT)
+From: 201604 40986 Daniel Siegel <daniel.siegel@syccuxas01.pcc.edu>
+To: "201602 20679 TristenJ. Everett" <tristen.everett@syccuxas01.pcc.edu>
+Subject: Test the test
+Message-ID: <alpine.LSU.2.11.1610111950570.20828@syccuxas01.pcc.edu>
+User-Agent: Alpine 2.11 (LSU 23 2013-08-11)
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 2
+
+
+test
+
